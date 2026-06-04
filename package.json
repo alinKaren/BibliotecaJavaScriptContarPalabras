@@ -1,8 +1,8 @@
 {
-  "name": "creandobibliotecajavascript",
-  "version": "1.0.0",
+  "name": "creandobibliotecajavascript: Contando Palabras",
+  "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "TratamientoErrores/ComandLineInterface",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,3 +19,4 @@
   },
   "homepage": "https://github.com/alinKaren/BibliotecaJavaScriptContarPalabras#readme"
 }
+
